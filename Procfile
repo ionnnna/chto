@@ -1,1 +1,1 @@
-worker: python stix.py
+web: python manage.py runserver
