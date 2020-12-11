@@ -1,0 +1,1 @@
+worker: phyton stix.py
