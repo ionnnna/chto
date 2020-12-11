@@ -1,1 +1,1 @@
-worker: phyton stix.py
+worker: python stix.py
